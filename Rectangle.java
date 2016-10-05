@@ -4,7 +4,9 @@ import javafx.scene.control.TextInputDialog;
 import javafx.scene.control.Alert;
 import javafx.scene.control.Alert.AlertType;
 import java.util.Optional;
-
+/**
+ author csc202
+*/
 public class Rectangle extends Application {
 	@Override
 	public void start(Stage primaryStage) {
